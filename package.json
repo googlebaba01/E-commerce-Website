@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-mernstack-project",
+  "version": "1.0.0",
+  "description": "Mernstack-project",
+  "main": "Backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Backend/server.js",
+    "dev": "nodemon Backend/srver.js"
+  },
+  "author": "Kajal Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cloudinary": "^1.30.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.6",
+    "nodemailer": "^6.7.5",
+    "validator": "^13.7.0"
+  }
+}

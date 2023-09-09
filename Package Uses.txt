@@ -1,0 +1,36 @@
+
+bycryptjs - Responsible for Password Hashing
+
+nodemailer - Responsile for OTP Or Gmail link generator in case of Forgot Password
+
+validator - For checking Parameters are rightly given or not by user. Eg: Number of phone is 10 or not.. Mail ID has @ or not
+
+
+**********************************************************************************************************
+
+For FrontEnd : 
+
+
+axios - to fetch data from backend and Intercept request and response
+
+react-alert - for notification alerts
+
+react-alert-template-basic  
+
+react-helmet - 
+
+react-redux -
+
+redux - 
+
+redux-devtools-extension - 
+
+redux-thung - 
+
+overlay-navbar - 
+
+react-router-dom  - For Routing
+
+
+
+
